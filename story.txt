@@ -1,0 +1,5 @@
+This is a story that should 
+be 5 lines long. Now I need to
+commit my story and make 3 
+changes and then track each 
+ghange with git.
